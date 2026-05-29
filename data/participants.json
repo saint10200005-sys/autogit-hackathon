@@ -934,5 +934,18 @@
     "tx_hash": "0xf0927940b7f2af1dbbb94f08866f00b15682e7529b0990fd598d20a89c148a27",
     "vault_address": "0x8e77BB0045e6f02fe2003Ce66f4d632fd9053ec4",
     "paid_at": "2026-05-29T16:17:50.970Z"
+  },
+  {
+    "entry_number": 73,
+    "github_id": 288990951,
+    "github_login": "greg10200005-wq",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288990951?v=4",
+    "template_title": "Packings List App",
+    "app_type": "packings-list-app",
+    "pr_number": 107,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/107",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
