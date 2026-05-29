@@ -944,8 +944,8 @@
     "app_type": "packings-list-app",
     "pr_number": 107,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/107",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x1e0f4c22baed720ded95229b8ea2df0a79868494d47475950448685c208742d7",
+    "vault_address": "0x9D5D497D1daD0B458183E19C36159D335b6d6e1b",
+    "paid_at": "2026-05-29T16:26:56.374Z"
   }
 ]
