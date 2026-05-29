@@ -957,8 +957,8 @@
     "app_type": "notess-app",
     "pr_number": 108,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/108",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x649b0ec553f6bd2d59bea7816213b4344be55762695027252925515be5912aac",
+    "vault_address": "0x133d25e77B656b8a8Db27AAF2AeA448343AC7cC5",
+    "paid_at": "2026-05-29T16:30:16.766Z"
   }
 ]
